@@ -3,7 +3,7 @@ on:
   push:
     branches:
     - main
-    - gh actions 
+    - gh-actions 
 
   pull_request:
     branches: 
