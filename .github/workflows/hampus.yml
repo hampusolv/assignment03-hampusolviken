@@ -28,7 +28,7 @@ jobs:
 
     # pull docker image
     - name: Pull docker image
-      run: docker pull rasilvia1986/my-vue-app:v1
+      run: docker pull rasilva1986/my-vue-app:v1
 
     # start application
     - name: Start the application 
