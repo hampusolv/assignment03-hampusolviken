@@ -92,7 +92,7 @@ test('Test case 02 - Backend', async ({ request }) => {
   expect(getPostsResponse.status()).toBe(200);
   const getAllRooms = await getPostsResponse.json();
   console.log(getAllRooms);
-  console.log("hello world")
+  console.log("Hello world")
 
 });
 
